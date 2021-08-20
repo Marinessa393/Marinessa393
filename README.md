@@ -2,7 +2,7 @@
 		<img src="header.svg" width="1200" height="300" alt="readme">
 </div>
 
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Marina and I'm a FullStack Developer</h2>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Marina and I'm a FrontEnd Developer</h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marinessa393&theme=radical&show_icons=true&locale=en" alt="marinessa" /></p>
 <p align="center">NOTE: Top languages does not indicate my skill level or something like that, </br>it's a github metric of which languages i have the most code on github</p>
